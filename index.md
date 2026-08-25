@@ -9,10 +9,16 @@ I'm trying to create simple (physical) Aircraft Panels and Control Panels for Fl
 - Controler/Interface are (for now) Arduino based
 - Frimware and software are provided by [MobiFlight](https://docs.mobiflight.com/)
 
-## Boards
+## Projects
 
 {% for project in site.projects %}
 - [{{ project.title }}]({{ project.url | relative_url }}) - {{ project.description }}
 {% endfor %}
 
-## Contact
+
+## License
+
+![Documentation & File License](https://img.shields.io/badge/licence-CC_Attribution-green)
+![GitHub License](https://img.shields.io/github/license/Gaudv/simpanels)
+
+The content of this site itself, documentation, files, is licensed under the [Creative Commons Attribution 3.0 Unported license](https://creativecommons.org/licenses/by/3.0/). The sources, code files, configurations,  and the underlying source code of this site and of all listed projects is licensed under the [MIT license](https://github.com/Gaudv/simpanels/blob/main/LICENSE).
