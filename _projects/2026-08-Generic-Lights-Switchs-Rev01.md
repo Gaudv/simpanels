@@ -1,32 +1,64 @@
 ---
 layout: default
 title: Generic Lights Switches Rev01
-description: Multi purposes, multi aircrafts, lights switches
+description: Multi-purpose lights switches system compatible with multiple aircraft.
 ---
 
 # Generic Lights Switches Rev01
 
 ## Overview
 
-## Compatible Aircrafts
+..
+
+---
+
+## Compatible Aircraft
+
+- 
+- 
+
+---
 
 ## Build
 
-### Parts List 
+### Parts List
 
-### Enclosure / Panel
+| Part | Quantity | Notes | Avg. Price |
+|------|----------|----------|-------|
+| Component 1 | 1 | | |
+| Component 2 | 2 | | |
 
-### Electonics
+### Enclosure & Panel
 
-### Microcontroler & Wireing 
+### Electronics
 
-### Software and Firmware
 
-## MobiFlight Aircraft configurations
+### Microcontroller & Wiring
 
-## To-Do / Inprove
 
-## Known issues
+### Software & Firmware
 
+
+---
+
+## MobiFlight Aircraft Configurations
+
+
+
+---
+
+## To-Do / Improvements
+
+- [ ] 
+- [ ] 
+
+---
+
+## Known Issues
+
+-
+-
+
+---
 
 [← Back Home]({{ "/" | relative_url }})
