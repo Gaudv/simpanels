@@ -12,7 +12,7 @@ I'm trying to create simple (physical) Aircraft Panels and Control Panels for Fl
 ## Boards
 
 {% for project in site.projects %}
-- [{{ project.title }}]({{ project.url }}) - {{ project.description }}
+- [{{ project.title }}]({{ project.url | relative_url }}) - {{ project.description }}
 {% endfor %}
 
 ## Contact
