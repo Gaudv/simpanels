@@ -3,3 +3,7 @@ description: Documentations for my home made airfraft panels
 remote_theme: pages-themes/primer@v0.6.0
 plugins:
   - jekyll-remote-theme
+collections:
+  projects:
+    output: true
+    permalink: /:collection/:name/
