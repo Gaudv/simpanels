@@ -1,5 +1,3 @@
-# Gaudv's Aircraft Panels
-
 Hello! 
 
 I'm trying to create simple (physical) Aircraft Panels and Control Panels for Flight Simulators (Primarely MSFS24). you will find on this website all the files, docs, parts for my crations.
